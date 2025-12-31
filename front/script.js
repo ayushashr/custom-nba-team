@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://nba-team-builder.onrender.com/api";
 let selectedPlayers = [];
 
 // Elements
