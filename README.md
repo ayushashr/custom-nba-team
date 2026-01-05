@@ -15,7 +15,7 @@ How to Use:
 2. Select 5 players to build your team
 3. Click "Analyze Team Strength" to see comprehensive stats
 
-<img width="2231" height="1265" alt="image" src="https://github.com/user-attachments/assets/30bf2f32-b7fb-4dc4-9649-da3cdb5a07e3" />
+<img width="2235" height="1189" alt="image" src="https://github.com/user-attachments/assets/0a42bd70-ae46-4d84-b305-9d0c18bee641" />
 
 <img width="2232" height="1190" alt="image" src="https://github.com/user-attachments/assets/e5e1fcad-5ee0-4076-b73f-15bdf5349d2e" />
 
